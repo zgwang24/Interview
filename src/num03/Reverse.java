@@ -1,4 +1,4 @@
-package num04;
+package num03;
 
 public class Reverse {
 	public static String reverse(String str){
